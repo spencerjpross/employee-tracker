@@ -2,7 +2,8 @@
 
 ** Table of Contents **
 - Description
-- Usage
+- Image
+- Github and Video
 - Installation
 - Features
 - Learnings
@@ -12,9 +13,13 @@
 ** Description **
 This is a Node.js command-line application that utilizes inquirer, mysql2, and console table.  This application is used to manage a company's employee database through inquirer prompts that will then add or update information from the user into sql tables.  
 
-** Usage **
+** Image **
 ![screenshot](./images/Screen%20Shot%202022-10-25%20at%204.43.43%20PM.png)
-Video - ()
+Video - (https://drive.google.com/file/d/1wqeU0QEnahnJG_K-3VjKHfPL7PJVEKsC/view)
+
+** Github and Video **
+- Video - (https://drive.google.com/file/d/1wqeU0QEnahnJG_K-3VjKHfPL7PJVEKsC/view)
+- Github - (https://github.com/spencerjpross/employee-tracker)
 
 ** Installation **
 - Run npm i
